@@ -14,6 +14,7 @@ if(navigator.serviceWorker) {
     console.log("Service Worker Did not installed Installed")
   })
 }
+
 /**
  * Fetch neighborhoods and cuisines as soon as the page is loaded.
  */
