@@ -285,8 +285,20 @@ nav h1 a {
   }
 }
 
-@media screen and (max-width:898px) and (min-width:500px){
+@media screen and (max-width:898px) and (min-width: 600px){
   #reviews-list li{
     padding: 0 5px 20px;
   }
+  .inside #map {
+    margin-left: 10%
+  }
+}
+
+@media screen and (max-width:599px) and (min-width: 400px){
+  #reviews-list li{
+    padding: 0 5px 20px;
+  }
+  #restaurant-img {
+    width: 60%;
+}
 }
