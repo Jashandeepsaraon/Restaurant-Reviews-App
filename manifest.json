@@ -3,17 +3,17 @@
     "name": "Restaurant Reviews App",
     "icons": [
     {
-        "src": "/img/images.png",
+        "src": "./img/images.png",
         "type": "img/png",
         "sizes": "192x192"
     },
     {
-        "src": "/img/download.jpg",
+        "src": "./img/download.jpg",
         "type": "img/jpg",
         "sizes": "512x512"
     }
     ],
-    "start_url": "/maps/?source=pwa",
+    "start_url": "./?source=pwa",
     "background_color": "#3367D6",
     "display": "standalone",
     "scope": "./",
