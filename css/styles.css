@@ -291,12 +291,13 @@ nav h1 a {
   }
   .inside #map {
     margin-left: 10%
+    
   }
 }
 
 @media screen and (max-width:599px) and (min-width: 400px){
   #reviews-list li{
-    padding: 0 5px 20px;
+    padding: 0 2px 20px;
   }
   #restaurant-img {
     width: 60%;
