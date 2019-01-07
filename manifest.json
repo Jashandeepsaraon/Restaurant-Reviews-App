@@ -2,20 +2,20 @@
     "short_name": "Maps",
     "name": "Restaurant Reviews App",
     "icons": [
-        {
-            "src": "./icon.png",
-            "type": "image/png",
-            "sizes": "192x192"
-        },
-        {
-            "src": "./icon.png",
-            "type": "image/png",
-            "sizes": "512x512"
-        }
+      {
+        "src": "/img/images.png",
+        "type": "img/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "/img/download.jpg",
+        "type": "img/jpg",
+        "sizes": "512x512"
+      }
     ],
-    "start_url": "./?source=pwa",
+    "start_url": "/maps/?source=pwa",
     "background_color": "#3367D6",
     "display": "standalone",
-    "scope": "./",
+    "scope": "/maps/",
     "theme_color": "#3367D6"
-}
+  }
